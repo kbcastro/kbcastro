@@ -9,7 +9,7 @@
 ---
 
 #### Connect With Me❕
-<a href="https://www.linkedin.com/in/kbcastro/"><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://www.linkedin.com/in/kinobonilla/"><img height="35" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"></a>
 <a href="mailto:kinobonilla@gmail.com"><img height="35" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg"></a>
 
 ---
