@@ -1,7 +1,7 @@
 # Hi, I’m Kino 👋🏼👨🏻‍💻
 
 - 👀 I’m interested in travelling, video games, and cycling
-- 🌱 I’m learning Javascript, HTML, CSS, and Python
+- 🌱 I’m currently learning Javascript and Python
 - 🎯 My goal for 2022 is to continue to improve my programming skills
 - 😄 Pronouns: He/Him
 
